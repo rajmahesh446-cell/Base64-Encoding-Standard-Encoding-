@@ -17,5 +17,5 @@ public class SimpleBase64 {
         System.out.println("Decoded: " + decoded);
         System.out.println("Decoded: " + decoded);
         System.out.println("Decoded: " + decoded);
-        System.out.println("Decoded: " + decoded);
+        
         
